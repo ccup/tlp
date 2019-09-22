@@ -3,4 +3,5 @@ Debug/*
 .settings/*
 .cproject
 .project
+.DS_Store
 /Debug/
