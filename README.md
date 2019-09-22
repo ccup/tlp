@@ -1,4 +1,4 @@
-# TLP : coding by template meta programming in C++11!
+# TLP : Template Programming Package in C++11!
 
 ***
 
