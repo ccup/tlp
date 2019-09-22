@@ -2,7 +2,7 @@
 
 ![](./pics/cpp-logo.png)  
 
-> ** 作者： MagicBowen， Email：e.bowen.wang@icloud.com，
+> ** 作者： MagicBowen， Email：e.wangbo@gmail.com
 > 转载请注明作者信息， 谢谢！**
 
 [toc]
